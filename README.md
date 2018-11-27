@@ -1,6 +1,8 @@
 # proj
 ## l'architecture globale de l'application:#
 # la page d'accueil#
+https://user-images.githubusercontent.com/44181362/48804842-01334200-ed16-11e8-9f46-91d8973726f7.PNG
+
 <p align="center">
   <img src="C:\Users\pc\Desktop" width="350"/>
   <img src="C:\Users\pc\Desktop\Capture.png" width="350"/>
